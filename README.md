@@ -11,4 +11,8 @@ V tabelo z vzponi dodaj nov stolpec "Poročilo" in za vsak vzpon napiši ime por
 Glej priložen demo za primer uporabe.
 
 ### Klicanje programa
-TODO
+
+Za delovanje porgrama potrebuješ [python](https://www.python.org/) in knjižnici [pandas](https://pandas.pydata.org/) ter [markdown-pdf](https://pypi.org/project/markdown-pdf/). 
+
+Najlažje je kar zamenjati tabeli `example/demo_vzponi.csv` in `porocila.csv` s svojima tabelama in pognati 
+`python3 demo.py` **iz mape src!**
